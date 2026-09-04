@@ -3,7 +3,7 @@
 
 <h3>lakshya here!! 
   
-  <h4>(im looking for an internship!)</h3>
+  <h4></h3>
 
 <h4 align="center">
   <a href="mailto:harsh@harshtripathi.lol">mail me!</a>
